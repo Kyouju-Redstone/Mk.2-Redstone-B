@@ -1,0 +1,37 @@
+{
+    "hopper": {
+        "sound": "metal",
+        "textures": {
+            "down": "hopper_bottom",
+            "east": "hopper_east",
+            "north": "hopper_north",
+            "south": "hopper_south",
+            "up": "hopper_top",
+            "west": "hopper_west"
+        }
+    },
+    "sticky_piston": {
+        "carried_textures": {
+            "down": "piston_bottom",
+            "side": "piston_side_sticky",
+            "up": "piston_top_sticky"
+        },
+        "sound": "stone",
+        "textures": {
+            "down": "piston_bottom",
+            "side": "piston_side",
+            "up": "piston_top"
+        }
+    },
+    "lit_furnace": {
+        "sound": "stone",
+        "textures": {
+            "down": "furnace_bottom_on",
+            "east": "furnace_front_on",
+            "north": "furnace_side_on",
+            "south": "furnace_side_on",
+            "up": "furnace_top_on",
+            "west": "furnace_side_on"
+        }
+    }
+}

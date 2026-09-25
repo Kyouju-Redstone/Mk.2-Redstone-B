@@ -1,0 +1,34 @@
+item.record_11.desc=C418 - 11 [1m11s/RS:11]	#
+item.record_13.desc=C418 - 13 [2m58s/RS:1]	#
+item.record_blocks.desc=C418 - blocks [5m45s/RS:3]	#
+item.record_cat.desc=C418 - cat [3m05s/RS:2]	#
+item.record_chirp.desc=C418 - chirp [3m05s/RS:4]	#
+item.record_far.desc=C418 - far [2m54s/RS:5]	#
+item.record_mall.desc=C418 - mall [3m17s/RS:6]	#
+item.record_mellohi.desc=C418 - mellohi [1m36s/RS:7]	#
+item.record_stal.desc=C418 - stal [2m30s/RS:8]	#
+item.record_strad.desc=C418 - strad [3m08s/RS:9]	#
+item.record_wait.desc=C418 - wait [3m58s/RS:12]	#
+item.record_ward.desc=C418 - ward [4m11s/RS:10]	#
+item.record_pigstep.desc=レナ・レーン - Pigstep [2m28s/RS:13]	#
+item.record_otherside.desc=レナ・レーン - otherside [3m15s/RS:14]	#
+item.record_relic.desc=アーロン・チェロフ - Relic [3m38s/RS:14]	#
+item.record_5.desc=Samuel Åberg - 5 [2m58s/RS:15]	#
+
+tile.wooden_button.name=オークのボタン [1.5s]	#
+tile.acacia_button.name=アカシアのボタン [1.5s]	#
+tile.birch_button.name=シラカバのボタン [1.5s]	#
+tile.dark_oak_button.name=ダークオークのボタン [1.5s]	#
+tile.jungle_button.name=ジャングルのボタン [1.5s]	#
+tile.spruce_button.name=トウヒのボタン [1.5s]	#
+tile.crimson_button.name=真紅のボタン [1.5s]	#
+tile.warped_button.name=歪んだボタン [1.5s]	#
+tile.mangrove_button.name=マングローブのボタン [1.5s]	#
+tile.bamboo_button.name=竹のボタン [1.5s]  #
+tile.cherry_button.name=サクラのボタン [1.5s]  #
+tile.stone_button.name=石のボタン [1.0s]	#
+tile.polished_blackstone_button.name=磨かれたブラックストーンのボタン [1.0s]	#
+
+tile.sculk_sensor.name=スカルク センサー [1.5s] #
+tile.calibrated_sculk_sensor.name=調律されたスカルクセンサー [0.5s] #
+tile.lightning_rod.name=避雷針 [0.4s]	#
