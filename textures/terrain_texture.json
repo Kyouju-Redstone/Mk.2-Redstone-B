@@ -184,9 +184,26 @@
                 "textures/blocks/observer_side_lit"
             ]
         },
+
+        "piston_inner": {
+            "textures": [
+                "textures/blocks/piston/regular/inner"
+            ]
+        },
+
         "piston_side_sticky": {
             "textures": [
-                "textures/blocks/piston_side_sticky"
+                "textures/blocks/piston/sticky/side"
+            ]
+        },
+        "piston_bottom_sticky": {
+            "textures": [
+                "textures/blocks/piston/sticky/bottom"
+            ]
+        },
+        "piston_inner_sticky": {
+            "textures": [
+                "textures/blocks/piston/sticky/inner"
             ]
         }
     }

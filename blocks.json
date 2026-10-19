@@ -10,6 +10,19 @@
             "west": "hopper_west"
         }
     },
+    "piston": {
+        "carried_textures": {
+            "down": "piston_bottom",
+            "side": "piston_side",
+            "up": "piston_top_normal"
+        },
+        "sound": "stone",
+        "textures": {
+            "down": "piston_bottom",
+            "side": "piston_side",
+            "up": "piston_inner"
+        }
+    },
     "sticky_piston": {
         "carried_textures": {
             "down": "piston_bottom",
@@ -18,9 +31,9 @@
         },
         "sound": "stone",
         "textures": {
-            "down": "piston_bottom",
-            "side": "piston_side",
-            "up": "piston_top"
+            "down": "piston_bottom_sticky",
+            "side": "piston_side_sticky",
+            "up": "piston_inner_sticky"
         }
     },
     "lit_furnace": {
