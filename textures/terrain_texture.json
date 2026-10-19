@@ -184,13 +184,11 @@
                 "textures/blocks/observer_side_lit"
             ]
         },
-
         "piston_inner": {
             "textures": [
                 "textures/blocks/piston/regular/inner"
             ]
         },
-
         "piston_side_sticky": {
             "textures": [
                 "textures/blocks/piston/sticky/side"
@@ -205,6 +203,9 @@
             "textures": [
                 "textures/blocks/piston/sticky/inner"
             ]
+        },
+        "redstone_lamp_off": {
+            "textures": "textures/blocks/redstone_lamp/off"
         }
     }
 }
