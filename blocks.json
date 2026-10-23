@@ -57,5 +57,49 @@
             "up": "furnace_top_on",
             "west": "furnace_side_on"
         }
+    },
+    "blast_furnace": {
+        "sound": "stone",
+        "textures": {
+            "down": "blast_furnace_bottom",
+            "east": "blast_furnace_side",
+            "north": "blast_furnace_side",
+            "south": "blast_furnace_front",
+            "up": "blast_furnace_top",
+            "west": "blast_furnace_side"
+        }
+    },
+    "lit_blast_furnace": {
+        "sound": "stone",
+        "textures": {
+            "down": "blast_furnace_bottom_on",
+            "east": "blast_furnace_front_on",
+            "north": "blast_furnace_side_on",
+            "south": "blast_furnace_side_on",
+            "up": "blast_furnace_top_on",
+            "west": "blast_furnace_side_on"
+        }
+    },
+    "smoker": {
+        "sound": "stone",
+        "textures": {
+            "down": "smoker_bottom",
+            "east": "smoker_side",
+            "north": "smoker_side",
+            "south": "smoker_front",
+            "up": "smoker_top",
+            "west": "smoker_side"
+        }
+    },
+    "lit_smoker": {
+        "sound": "stone",
+        "textures": {
+            "down": "smoker_bottom_on",
+            "east": "smoker_front_on",
+            "north": "smoker_side_on",
+            "south": "smoker_side_on",
+            "up": "smoker_top_on",
+            "west": "smoker_side_on"
+        }
     }
 }

@@ -56,5 +56,102 @@
         "atlas_index": 3,
         "atlas_tile": "furnace_bottom_on",
         "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/front_on",
+        "atlas_tile": "blast_furnace_front_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/side_on",
+        "atlas_tile": "blast_furnace_side_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/top_south_on",
+        "atlas_index": 0,
+        "atlas_tile": "blast_furnace_top_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/top_west_on",
+        "atlas_index": 1,
+        "atlas_tile": "blast_furnace_top_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/top_north_on",
+        "atlas_index": 2,
+        "atlas_tile": "blast_furnace_top_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/top_east_on",
+        "atlas_index": 3,
+        "atlas_tile": "blast_furnace_top_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/bottom_south_on",
+        "atlas_index": 0,
+        "atlas_tile": "blast_furnace_bottom_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/bottom_west_on",
+        "atlas_index": 1,
+        "atlas_tile": "blast_furnace_bottom_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/bottom_north_on",
+        "atlas_index": 2,
+        "atlas_tile": "blast_furnace_bottom_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/blast_furnace/bottom_east_on",
+        "atlas_index": 3,
+        "atlas_tile": "blast_furnace_bottom_on",
+        "ticks_per_frame": 10
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/front_on",
+        "atlas_tile": "smoker_front_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/side_on",
+        "atlas_tile": "smoker_side_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/top_on",
+        "atlas_tile": "smoker_top_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/bottom_south_on",
+        "atlas_index": 0,
+        "atlas_tile": "smoker_bottom_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/bottom_west_on",
+        "atlas_index": 1,
+        "atlas_tile": "smoker_bottom_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/bottom_north_on",
+        "atlas_index": 2,
+        "atlas_tile": "smoker_bottom_on",
+        "ticks_per_frame": 4
+    },
+    {
+        "flipbook_texture": "textures/blocks/smoker/bottom_east_on",
+        "atlas_index": 3,
+        "atlas_tile": "smoker_bottom_on",
+        "ticks_per_frame": 4
     }
 ]

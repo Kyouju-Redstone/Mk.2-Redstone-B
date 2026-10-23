@@ -47,6 +47,84 @@
                 "textures/blocks/furnace/bottom_east_on"
             ]
         },
+        "blast_furnace_front": {
+            "textures": "textures/blocks/blast_furnace/front"
+        },
+        "blast_furnace_side": {
+            "textures": "textures/blocks/blast_furnace/side"
+        },
+        "blast_furnace_top": {
+            "textures": [
+                "textures/blocks/blast_furnace/top_south",
+                "textures/blocks/blast_furnace/top_west",
+                "textures/blocks/blast_furnace/top_north",
+                "textures/blocks/blast_furnace/top_east"
+            ]
+        },
+        "blast_furnace_bottom": {
+            "textures": [
+                "textures/blocks/blast_furnace/bottom_south",
+                "textures/blocks/blast_furnace/bottom_west",
+                "textures/blocks/blast_furnace/bottom_north",
+                "textures/blocks/blast_furnace/bottom_east"
+            ]
+        },
+        "blast_furnace_front_on": {
+            "textures": "textures/blocks/blast_furnace/front_on"
+        },
+        "blast_furnace_side_on": {
+            "textures": "textures/blocks/blast_furnace/side_on"
+        },
+        "blast_furnace_top_on": {
+            "textures": [
+                "textures/blocks/blast_furnace/top_south_on",
+                "textures/blocks/blast_furnace/top_west_on",
+                "textures/blocks/blast_furnace/top_north_on",
+                "textures/blocks/blast_furnace/top_east_on"
+            ]
+        },
+        "blast_furnace_bottom_on": {
+            "textures": [
+                "textures/blocks/blast_furnace/bottom_south_on",
+                "textures/blocks/blast_furnace/bottom_west_on",
+                "textures/blocks/blast_furnace/bottom_north_on",
+                "textures/blocks/blast_furnace/bottom_east_on"
+            ]
+        },
+        "smoker_front": {
+            "textures": "textures/blocks/smoker/front"
+        },
+        "smoker_side": {
+            "textures": "textures/blocks/smoker/side"
+        },
+        "smoker_top": {
+            "textures": "textures/blocks/smoker/top"
+        },
+        "smoker_bottom": {
+            "textures": [
+                "textures/blocks/smoker/bottom_south",
+                "textures/blocks/smoker/bottom_west",
+                "textures/blocks/smoker/bottom_north",
+                "textures/blocks/smoker/bottom_east"
+            ]
+        },
+        "smoker_front_on": {
+            "textures": "textures/blocks/smoker/front_on"
+        },
+        "smoker_side_on": {
+            "textures": "textures/blocks/smoker/side_on"
+        },
+        "smoker_top_on": {
+            "textures": "textures/blocks/smoker/top_on"
+        },
+        "smoker_bottom_on": {
+            "textures": [
+                "textures/blocks/smoker/bottom_south_on",
+                "textures/blocks/smoker/bottom_west_on",
+                "textures/blocks/smoker/bottom_north_on",
+                "textures/blocks/smoker/bottom_east_on"
+            ]
+        },
         "dispenser_side": {
             "textures": "textures/blocks/dispenser_side"
         },
