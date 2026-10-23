@@ -36,6 +36,17 @@
             "up": "piston_inner_sticky"
         }
     },
+    "furnace": {
+        "sound": "stone",
+        "textures": {
+            "down": "furnace_bottom",
+            "east": "furnace_side",
+            "north": "furnace_side",
+            "south": "furnace_front",
+            "up": "furnace_top",
+            "west": "furnace_side"
+        }
+    },
     "lit_furnace": {
         "sound": "stone",
         "textures": {

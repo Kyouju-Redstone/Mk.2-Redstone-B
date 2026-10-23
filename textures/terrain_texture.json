@@ -3,14 +3,49 @@
     "padding": 8,
     "resource_pack_name": "Mk.2-Redstone-B",
     "texture_data": {
+        "furnace_front": {
+            "textures": "textures/blocks/furnace/front"
+        },
+        "furnace_side": {
+            "textures": "textures/blocks/furnace/side"
+        },
+        "furnace_top": {
+            "textures": [
+                "textures/blocks/furnace/top_south",
+                "textures/blocks/furnace/top_west",
+                "textures/blocks/furnace/top_north",
+                "textures/blocks/furnace/top_east"
+            ]
+        },
+        "furnace_bottom": {
+            "textures": [
+                "textures/blocks/furnace/bottom_south",
+                "textures/blocks/furnace/bottom_west",
+                "textures/blocks/furnace/bottom_north",
+                "textures/blocks/furnace/bottom_east"
+            ]
+        },
+        "furnace_front_on": {
+            "textures": "textures/blocks/furnace/front_on"
+        },
         "furnace_side_on": {
-            "textures": "textures/blocks/furnace_side_on"
+            "textures": "textures/blocks/furnace/side_on"
         },
         "furnace_top_on": {
-            "textures": "textures/blocks/furnace_top_on"
+            "textures": [
+                "textures/blocks/furnace/top_south_on",
+                "textures/blocks/furnace/top_west_on",
+                "textures/blocks/furnace/top_north_on",
+                "textures/blocks/furnace/top_east_on"
+            ]
         },
         "furnace_bottom_on": {
-            "textures": "textures/blocks/furnace_bottom_on"
+            "textures": [
+                "textures/blocks/furnace/bottom_south_on",
+                "textures/blocks/furnace/bottom_west_on",
+                "textures/blocks/furnace/bottom_north_on",
+                "textures/blocks/furnace/bottom_east_on"
+            ]
         },
         "dispenser_side": {
             "textures": "textures/blocks/dispenser_side"
