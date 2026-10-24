@@ -101,5 +101,16 @@
             "up": "smoker_top_on",
             "west": "smoker_side_on"
         }
+    },
+    "crafter": {
+        "sound": "stone",
+        "textures": {
+            "down": "crafter_bottom",
+            "east": "crafter_east",
+            "north": "crafter_north",
+            "south": "crafter_south",
+            "up": "crafter_top",
+            "west": "crafter_west"
+        }
     }
 }

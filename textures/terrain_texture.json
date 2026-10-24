@@ -319,6 +319,48 @@
         },
         "redstone_lamp_off": {
             "textures": "textures/blocks/redstone_lamp/off"
+        },
+        "crafter_bottom": {
+            "textures": [
+                "textures/blocks/crafter/bottom",
+                "textures/blocks/crafter/bottom_triggered",
+                "textures/blocks/crafter/bottom_triggered"
+            ]
+        },
+        "crafter_top": {
+            "textures": [
+                "textures/blocks/crafter/top",
+                "textures/blocks/crafter/top_triggered",
+                "textures/blocks/crafter/top_crafting"
+            ]
+        },
+        "crafter_north": {
+            "textures": [
+                "textures/blocks/crafter/north",
+                "textures/blocks/crafter/north",
+                "textures/blocks/crafter/north_crafting"
+            ]
+        },
+        "crafter_south": {
+            "textures": [
+                "textures/blocks/crafter/south",
+                "textures/blocks/crafter/south_triggered",
+                "textures/blocks/crafter/south_triggered"
+            ]
+        },
+        "crafter_west": {
+            "textures": [
+                "textures/blocks/crafter/west",
+                "textures/blocks/crafter/west_triggered",
+                "textures/blocks/crafter/west_crafting"
+            ]
+        },
+        "crafter_east": {
+            "textures": [
+                "textures/blocks/crafter/east",
+                "textures/blocks/crafter/east_triggered",
+                "textures/blocks/crafter/east_crafting"
+            ]
         }
     }
 }
