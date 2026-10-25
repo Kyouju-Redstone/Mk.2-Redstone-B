@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "Created by Kyouju / Designed by Kyouju, Nisai",
-        "name": "Mk.2 Redstone Pack - B v3.0.0",
+        "name": "Mk.2 Redstone-B v3.1.0",
         "uuid": "614d0f71-ae73-4dc1-9330-f00ada651edb",
-        "version": [0, 0, 1],
-        "min_engine_version": [ 1, 16, 220 ]
+        "version": [3, 1, 0],
+        "min_engine_version": [ 1, 26, 520 ]
     },
     "modules": [
         {
-            "description": "Mk.2 Redstone Pack - B v3.0.0",
+            "description": "Mk.2 Redstone-B v3.1.0",
             "type": "resources",
             "uuid": "f908d1d8-8943-4763-8c41-1905d93f3599",
-            "version": [0, 0, 1]
+            "version": [3, 1, 1]
         }
     ]
 }
