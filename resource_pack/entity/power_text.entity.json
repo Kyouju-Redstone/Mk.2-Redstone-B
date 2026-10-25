@@ -1,0 +1,35 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "rsd:power_text",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "n0": "textures/entity/power/n0",
+                "n1": "textures/entity/power/n1",
+                "n2": "textures/entity/power/n2",
+                "n3": "textures/entity/power/n3",
+                "n4": "textures/entity/power/n4",
+                "n5": "textures/entity/power/n5",
+                "n6": "textures/entity/power/n6",
+                "n7": "textures/entity/power/n7",
+                "n8": "textures/entity/power/n8",
+                "n9": "textures/entity/power/n9",
+                "n10": "textures/entity/power/n10",
+                "n11": "textures/entity/power/n11",
+                "n12": "textures/entity/power/n12",
+                "n13": "textures/entity/power/n13",
+                "n14": "textures/entity/power/n14",
+                "n15": "textures/entity/power/n15"
+            },
+            "geometry": {
+                "default": "geometry.rsd_power_text"
+            },
+            "render_controllers": [
+                "controller.render.rsd_power_text"
+            ]
+        }
+    }
+}

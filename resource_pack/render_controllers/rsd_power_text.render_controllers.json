@@ -1,0 +1,38 @@
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.rsd_power_text": {
+            "arrays": {
+                "textures": {
+                    "Array.digits": [
+                        "Texture.n0",
+                        "Texture.n1",
+                        "Texture.n2",
+                        "Texture.n3",
+                        "Texture.n4",
+                        "Texture.n5",
+                        "Texture.n6",
+                        "Texture.n7",
+                        "Texture.n8",
+                        "Texture.n9",
+                        "Texture.n10",
+                        "Texture.n11",
+                        "Texture.n12",
+                        "Texture.n13",
+                        "Texture.n14",
+                        "Texture.n15"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.digits[query.property('rsd:power')]"
+            ]
+        }
+    }
+}
