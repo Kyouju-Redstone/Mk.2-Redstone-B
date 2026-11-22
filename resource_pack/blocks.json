@@ -25,7 +25,7 @@
 	},
 	"sticky_piston": {
 		"carried_textures": {
-			"down": "piston_bottom",
+			"down": "piston_bottom_sticky",
 			"side": "piston_side_sticky",
 			"up": "piston_top_sticky"
 		},
