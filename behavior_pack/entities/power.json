@@ -1,0 +1,46 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "mk2redstone:power",
+            "is_spawnable": false,
+            "is_summonable": true,
+            "is_experimental": false,
+            "properties": {
+                "mk2redstone:power": {
+                    "type": "int",
+                    "client_sync": true,
+                    "range": [ 0, 15 ],
+                    "default": 0
+                }
+            }
+        },
+        "components": {
+            "minecraft:physics": {
+                "has_gravity": false,
+                "has_collision": false
+            },
+            "minecraft:collision_box": {
+                "width": 0.0001,
+                "height": 0.0001
+            },
+            "minecraft:pushable": {
+                "is_pushable": false,
+                "is_pushable_by_piston": false
+            },
+            "minecraft:damage_sensor": {
+                "triggers": {
+                    "cause": "all",
+                    "deals_damage": "false"
+                }
+            },
+            "minecraft:knockback_resistance": {
+                "value": 1
+            },
+            "minecraft:health": {
+                "value": 1000,
+                "max": 1000
+            }
+        }
+    }
+}

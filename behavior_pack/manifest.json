@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Mk.2 Redstone-B v3.1.0",
+        "description": "Created by Kyouju",
+        "uuid": "9207155d-a5e4-4946-b76f-39f5aa40cc2b",
+        "version": [3, 1, 0],
+        "min_engine_version": [1, 26, 52]
+    },
+    "modules": [
+        {
+            "description": "Mk.2 Redstone-B v3.1.0",
+            "type": "script",
+            "language": "javascript",
+            "uuid": "8afb0e60-f254-4170-a1fc-7d59e3e9f2d8",
+            "entry": "scripts/main.js",
+            "version": [3, 1, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.10.0"
+        }
+    ]
+}
