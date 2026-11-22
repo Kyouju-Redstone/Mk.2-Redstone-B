@@ -19,6 +19,13 @@
     "offset": [220, 77]
   },
 
+  "crafter_guide": {
+    "type": "image",
+    "size": [57, 154],
+    "texture": "textures/ui/crafter_guide",
+    "offset": [125, 66]
+  },
+
   //---------------------------------------------------------------------------
   // Screens
   //---------------------------------------------------------------------------
@@ -53,6 +60,12 @@
     "anchor_to": "top_left",
     "controls": [
       { "hopper_guide@redstone.hopper_guide": {} }
+    ]
+  },
+
+  "crafter_label@item_dropper_label": {
+    "controls": [
+      { "crafter_guide@redstone.crafter_guide": {} }
     ]
   },
 
