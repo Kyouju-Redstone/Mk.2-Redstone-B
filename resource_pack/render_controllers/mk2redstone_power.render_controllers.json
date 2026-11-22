@@ -1,0 +1,38 @@
+{
+    "format_version": "1.10.0",
+    "render_controllers": {
+        "controller.render.mk2redstone_power": {
+            "arrays": {
+                "textures": {
+                    "Array.digits": [
+                        "Texture.power_0",
+                        "Texture.power_1",
+                        "Texture.power_2",
+                        "Texture.power_3",
+                        "Texture.power_4",
+                        "Texture.power_5",
+                        "Texture.power_6",
+                        "Texture.power_7",
+                        "Texture.power_8",
+                        "Texture.power_9",
+                        "Texture.power_10",
+                        "Texture.power_11",
+                        "Texture.power_12",
+                        "Texture.power_13",
+                        "Texture.power_14",
+                        "Texture.power_15"
+                    ]
+                }
+            },
+            "geometry": "Geometry.default",
+            "materials": [
+                {
+                    "*": "Material.default"
+                }
+            ],
+            "textures": [
+                "Array.digits[query.property('mk2redstone:power')]"
+            ]
+        }
+    }
+}

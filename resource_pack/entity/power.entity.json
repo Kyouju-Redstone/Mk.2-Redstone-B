@@ -1,0 +1,35 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "mk2redstone:power",
+            "materials": {
+                "default": "entity_alphatest"
+            },
+            "textures": {
+                "power_0":  "textures/entity/power/0",
+                "power_1":  "textures/entity/power/1",
+                "power_2":  "textures/entity/power/2",
+                "power_3":  "textures/entity/power/3",
+                "power_4":  "textures/entity/power/4",
+                "power_5":  "textures/entity/power/5",
+                "power_6":  "textures/entity/power/6",
+                "power_7":  "textures/entity/power/7",
+                "power_8":  "textures/entity/power/8",
+                "power_9":  "textures/entity/power/9",
+                "power_10": "textures/entity/power/10",
+                "power_11": "textures/entity/power/11",
+                "power_12": "textures/entity/power/12",
+                "power_13": "textures/entity/power/13",
+                "power_14": "textures/entity/power/14",
+                "power_15": "textures/entity/power/15"
+            },
+            "geometry": {
+                "default": "geometry.mk2redstone_power"
+            },
+            "render_controllers": [
+                "controller.render.mk2redstone_power"
+            ]
+        }
+    }
+}

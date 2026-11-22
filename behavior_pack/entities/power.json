@@ -2,18 +2,15 @@
     "format_version": "1.21.0",
     "minecraft:entity": {
         "description": {
-            "identifier": "rsd:power_text",
+            "identifier": "mk2redstone:power",
             "is_spawnable": false,
             "is_summonable": true,
             "is_experimental": false,
             "properties": {
-                "rsd:power": {
+                "mk2redstone:power": {
                     "type": "int",
                     "client_sync": true,
-                    "range": [
-                        0,
-                        15
-                    ],
+                    "range": [ 0, 15 ],
                     "default": 0
                 }
             }

@@ -1,15 +1,15 @@
 import { world, system } from "@minecraft/server";
 
 // ==================== 設定 ====================
-const ENTITY_ID = "rsd:power_text";   // 数字エンティティのID
-const POWER_PROP = "rsd:power";       // 信号強度を入れるプロパティ
+const ENTITY_ID = "mk2redstone:power";      // 数字エンティティのID
+const POWER_PROP = "mk2redstone:power";     // 信号強度を入れるプロパティ
 const WIRE_ID = "minecraft:redstone_wire";
 
-const RADIUS_XZ = 6;                  // プレイヤー周囲の探索範囲(横)
-const RADIUS_Y = 6;                   // 探索範囲(縦)
-const INTERVAL = 5;                   // 更新間隔(tick)
-const OFFSET_Y = 0.0625;              // ダスト上面(0.0625)のすぐ上
-const ROTATION_Y = 0;                 // 数字の向き(0 / 90 / 180 / 270)
+const RADIUS_XZ  = 6;           // プレイヤー周囲の探索範囲(横)
+const RADIUS_Y   = 6;           // 探索範囲(縦)
+const INTERVAL   = 5;           // 更新間隔(tick)
+const OFFSET_Y   = 0.0625;      // ダスト上面(0.0625)のすぐ上
+const ROTATION_Y = 0;           // 数字の向き(0 / 90 / 180 / 270)
 
 const DIMENSION_IDS = ["overworld", "nether", "the_end"];
 const FALLBACK_HEIGHT = { min: -64, max: 320 }; // heightRange が取れない場合の予備
