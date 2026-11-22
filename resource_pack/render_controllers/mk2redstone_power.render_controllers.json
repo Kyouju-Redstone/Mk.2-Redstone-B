@@ -31,7 +31,7 @@
                 }
             ],
             "textures": [
-                "Array.digits[query.property('mk2redstone:power')]"
+                "Array.digits[math.clamp(query.property('mk2redstone:power'), 0, 15)]"
             ]
         }
     }
